@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @charlie-daniels
+- 👀 I’m interested in developing more complex projects
+- 🌱 I’m currently learning c# and python
+- 📫 Reach me on twitter @chadanx_
