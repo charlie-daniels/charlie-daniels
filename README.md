@@ -3,6 +3,20 @@
 
 <div align="center">I'm a self taught (and learning!) developer based in the East Midlands.</div>  
   
+<br/>
+
+## <div align="center">Tech</div>
+
+
+<div align ="center">
+<img src=https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white alt=macOS style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white alt=numPy style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white alt=cSharp style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white alt=VSCode style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue alt=Python style="margin-bottom: 5px;" />
+
+
+</div>
 
 <br/>  
 
