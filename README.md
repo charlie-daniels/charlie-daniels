@@ -6,7 +6,7 @@ I'm an aspiring developer/maker working toward specialising in electrical design
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arch,arduino,autocad,bash,c,css,git,html,js,py,sass,vim,vscode/" />
+    <img src="https://skillicons.dev/icons?i=arch,arduino,autocad,bash,c,css,git,html,js,py,sass,vim/" />
   </a>
 </p>
 
